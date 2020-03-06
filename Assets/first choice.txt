@@ -1,7 +1,0 @@
-welcome to escape the mansion
-
-in this choose your own adventure, you'll make choices by pressing 1, 2 or 3. 
-
-if you give up, press "escape" to quit
-
-press 1. to proceed 

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
-  m_Name: fist choice
+  m_Name: fist choice.
   m_EditorClassIdentifier: 
   storyText: "realizing the chains that restrained you where held in place by loose
     rusty bolt you are able to free yourself \r\nyou head for the door, as you open
