@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: stay on guard
+  m_EditorClassIdentifier: 
+  storyText: 'the man springs back up throwing the tire iron right at you. off of
+    pure instinct you dodge the tire iron and noticed his keys hit the ground as
+    he hits all fours to rejuvenate.
+
+    do you
+
+
+    1. take his keys
+
+
+    2.
+    throw pro-pain tank at him'
+  nextStates:
+  - {fileID: 11400000, guid: 955b00097329cb94590d10cf6636b63d, type: 2}
+  - {fileID: 11400000, guid: af086a5b79814804897596a557735f0b, type: 2}

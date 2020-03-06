@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: story
+  m_EditorClassIdentifier: 
+  storyText: 'You wake up. Chained to the wall in a room. "how did I get here". You
+    think back and have no recollection on what happened between now, and last night
+    when you went to bed. At least you think it was last night. you''re tired, weak
+    and need to get out of here. looking around you see no windows. the floor is
+    concrete, "this might be the bacement" you think as you try figuring out where
+    you are. "I need to get out of here"
+
+
+    press 1 to continue'
+  nextStates:
+  - {fileID: 11400000, guid: deb0c928815308d4999fbb9421da4ca5, type: 2}

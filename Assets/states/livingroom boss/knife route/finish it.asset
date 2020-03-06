@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: finish it
+  m_EditorClassIdentifier: 
+  storyText: "after some quick thinking you wield the knife you\n grabbed to finish
+    the job.\n you find a key on the lady.\n looks like it goes to the front door.
+    time to make a decision before this place burns to the ground\n\n1. go out front
+    door\n\n2. go to the garage"
+  nextStates:
+  - {fileID: 11400000, guid: 6f961ebe2d8ae324fb21bd77a9589656, type: 2}
+  - {fileID: 11400000, guid: a8d76c79efc7d58438874b875807638e, type: 2}

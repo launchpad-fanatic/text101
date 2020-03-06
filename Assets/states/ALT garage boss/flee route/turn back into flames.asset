@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: turn back into flames
+  m_EditorClassIdentifier: 
+  storyText: 'you turn around and
+
+
+    1. go into living room
+
+
+    2. go back to
+    bacement
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 686d4b608f376714f992fcaee57be5a9, type: 2}
+  - {fileID: 11400000, guid: 6f8f8e0639e91744abf5030f4664d317, type: 2}

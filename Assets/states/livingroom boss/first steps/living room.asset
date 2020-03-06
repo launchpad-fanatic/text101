@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: living room
+  m_EditorClassIdentifier: 
+  storyText: "After passing a chained up locked front door, you find\nyourself in
+    a dark living room, the only thing that\ncatches your eye is a candle on the
+    table. a strange\nquite noise fills the air.\n\n1. grab the candle\n\n2. go in
+    quietly \n\n"
+  nextStates:
+  - {fileID: 11400000, guid: af649f0c2d5157e419e4b0c4e0853204, type: 2}
+  - {fileID: 11400000, guid: 5da8f1581e77fb841bea89fae0315deb, type: 2}

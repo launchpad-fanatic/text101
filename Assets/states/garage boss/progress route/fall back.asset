@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: fall back
+  m_EditorClassIdentifier: 
+  storyText: 'you dip back just as the psyco starts thrashing about trying to hit
+    you. his keys hit the floor as he comes to a stop to catch his breath
+
+
+    1.
+    grab his keys
+
+
+    2. throw the pro-pain tank next to you at him'
+  nextStates:
+  - {fileID: 11400000, guid: e7efc4b1d3511554e8b6eef77a7a2ca0, type: 2}
+  - {fileID: 11400000, guid: 46a8c915f759fe34f901091d99d44f37, type: 2}

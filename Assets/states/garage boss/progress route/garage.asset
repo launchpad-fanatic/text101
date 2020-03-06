@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: garage
+  m_EditorClassIdentifier: 
+  storyText: 'you slowly walk into the garage. Just as you enter
+
+    you lock eyes
+    with a crazed man who starts making his way towards you holding a tire iron with
+    malicious intent.
+
+
+    1. drop kick him
+
+
+    2. run back'
+  nextStates:
+  - {fileID: 11400000, guid: f6c77b65f9677844b87fdb13edc03759, type: 2}
+  - {fileID: 11400000, guid: 8e8e450a5265fa74b837419f0dbe779a, type: 2}

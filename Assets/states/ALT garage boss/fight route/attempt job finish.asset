@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: attempt job finish
+  m_EditorClassIdentifier: 
+  storyText: 'as you approched the man he springs back up cracking your skull with
+    his tire iron. you hit the ground as life slips away.
+
+
+    1. go back to intro.'
+  nextStates:
+  - {fileID: 11400000, guid: 16a7e382680396f40885d4cb5cd81f92, type: 2}

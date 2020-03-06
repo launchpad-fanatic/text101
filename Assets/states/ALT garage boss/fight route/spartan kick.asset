@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae13406f4bbe907499f90bd03947fc05, type: 3}
+  m_Name: spartan kick
+  m_EditorClassIdentifier: 
+  storyText: 'you kick the psyco square in the chest knocking him to ground. next
+    you
+
+
+    1. attempt to finish the job
+
+
+    2. stay on guard'
+  nextStates:
+  - {fileID: 11400000, guid: 6c835ff9b20ce644fb344b761530b9a3, type: 2}
+  - {fileID: 11400000, guid: 61080b1e38e6cfc4cb85ef682abd13b8, type: 2}
